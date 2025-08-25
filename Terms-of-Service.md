@@ -1,14 +1,16 @@
-## Terms of Service
+# Terms of Service
 
-By using **Vanguard** (the “Bot”), you agree to the following terms:  
+**Last Updated:** [25/08/2025]
+
+By using **Vanguard** (the “Bot”), you agree to the following Terms of Service:
 
 1. **Eligibility**  
-   - Vanguard is invite-only. Server owners must apply and be accepted before use.  
    - You must comply with Discord’s [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).  
+   - By using Vanguard, you confirm that you are at least 13 years old (or the minimum age required to use Discord in your country).  
 
 2. **Acceptable Use**  
    - You may not use the Bot to break Discord’s ToS, applicable laws, or to harass, spam, or exploit others.  
-   - You may not attempt to damage, reverse engineer, or abuse the Bot.  
+   - You may not attempt to damage, abuse, or reverse-engineer the Bot.  
    - Misuse may result in immediate removal of the Bot from your server.  
 
 3. **Availability**  
@@ -17,8 +19,8 @@ By using **Vanguard** (the “Bot”), you agree to the following terms:
 
 4. **Liability**  
    - The developers of Vanguard are **not responsible** for damages, losses, or issues caused by use of the Bot.  
-   - Server staff are solely responsible for any moderation actions (timeouts, bans, kicks, etc.) performed in their server.  
+   - Server staff are solely responsible for how moderation actions (timeouts, bans, kicks, etc.) are applied in their community.  
 
 5. **Termination**  
-   - Access to Vanguard may be revoked at any time if these Terms are violated.  
-   - Server owners may request removal of the Bot at any time.  
+   - Access to Vanguard may be restricted or revoked at any time if these Terms are violated.  
+   - Servers may remove the Bot at any time.  
