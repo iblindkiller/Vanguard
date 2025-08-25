@@ -1,26 +1,29 @@
-Vanguard – Privacy Policy
+# Privacy Policy
 
-We respect your privacy. This policy explains what data Vanguard may collect and how it is used.
+**Last Updated:** [25/08/2025]
 
-1. Data Collected
-Vanguard collects and processes only the minimum data required to function as a moderation tool:
-- Message content (temporarily, for spam/raid detection; not permanently stored).
-- User IDs (for moderation logs and enforcement).
-- Server IDs and settings (for configuration).
-No personal information outside of Discord is collected.
+We respect your privacy. This Privacy Policy explains what data Vanguard collects and how it is used.  
 
-2. Data Storage
-- Data is only stored as long as necessary for functionality.
-- Moderation logs may be stored for accountability until server staff delete them.
-- No data is shared, sold, or used for advertising.
+1. **Data Collected**  
+   Vanguard only collects the minimum data required to provide functionality:  
+   - **Message content** (processed temporarily for spam/raid detection; not permanently stored).  
+   - **User IDs** (for moderation logs and enforcement).  
+   - **Server IDs and configuration settings** (for feature setup).  
+   Vanguard does not collect personal information outside of Discord.  
 
-3. Third Parties
-- All data remains within the Bot and its hosting environment.
-- We do not share data with third parties, except as required by law or Discord.
+2. **Data Storage**  
+   - Data is stored only as long as necessary for functionality.  
+   - Moderation logs may be stored for accountability until deleted by server staff.  
+   - We do not sell, share, or use data for advertising.  
 
-4. Your Rights
-- Server owners may request deletion of stored configuration or logs at any time.
-- Users may contact the developers to request removal of personal data associated with moderation logs.
+3. **Third Parties**  
+   - All data remains within Vanguard and its hosting environment.  
+   - Data may only be shared if required by law or by Discord.  
 
-5. Changes
-- This Privacy Policy may be updated. Continued use of the Bot after changes indicates acceptance.
+4. **User Rights**  
+   - Server owners may request deletion of stored configuration or moderation logs at any time.  
+   - Users may contact the developers to request removal of their personal data stored in moderation logs.  
+
+5. **Changes**  
+   - This Privacy Policy may be updated at any time.  
+   - Continued use of the Bot after updates constitutes acceptance of the revised policy.  
